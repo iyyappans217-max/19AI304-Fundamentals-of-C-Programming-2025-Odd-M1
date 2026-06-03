@@ -45,30 +45,10 @@ int main()
 }
 ```
 
- 2. Implementation of different categories of operators.
-```
-#include <stdio.h>
-int main()
-{
-    int a = 10, b = 5;
-    printf("Addition = %d\n", a + b);
-    printf("Subtraction = %d\n", a - b);
-    printf("Multiplication = %d\n", a * b);
-    printf("Division = %d\n", a / b);
-    printf("a > b = %d\n", a > b);
-    printf("a < b = %d\n", a < b);
-    printf("(a>b && b>0) = %d\n", (a > b && b > 0));
-    int c = a;
-    printf("Assigned value c = %d\n", c);
-    printf("++a = %d\n", ++a);
-    printf("--b = %d\n", --b);
-
-    return 0;
-}
+ 
 ```
 # Output:
 <img width="1922" height="1022" alt="image" src="https://github.com/user-attachments/assets/7ac0f75d-b3c4-4b4e-a770-34cadb22dca7" />
-<img width="1922" height="1024" alt="image" src="https://github.com/user-attachments/assets/c63f0ee1-e96d-4eaa-a0e1-3fe12cbb5798" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
