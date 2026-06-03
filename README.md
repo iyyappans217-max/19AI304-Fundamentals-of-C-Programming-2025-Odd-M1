@@ -44,9 +44,6 @@ int main()
     return 0;
 }
 ```
-
- 
-```
 # Output:
 <img width="1922" height="1022" alt="image" src="https://github.com/user-attachments/assets/7ac0f75d-b3c4-4b4e-a770-34cadb22dca7" />
 
